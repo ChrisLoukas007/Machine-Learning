@@ -1,6 +1,7 @@
 # Machine-Learning
 
 I have learned that machine learning is a subset of artificial intelligence that allows computer systems to automatically learn and improve from experience without being explicitly programmed. The main objective of machine learning is to enable systems to learn from data and make accurate predictions or decisions based on that data.
+In each folder above you will find the necessary code in order to build models and run the dataset you want . 
 
 - Regression is a type of supervised learning algorithm used to predict continuous numerical values. It is commonly used to predict the value of a dependent variable based on the values of one or more independent variables.
 
