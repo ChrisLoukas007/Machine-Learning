@@ -1,7 +1,12 @@
 # Machine-Learning
 
-I have learned that machine learning is a subset of artificial intelligence that allows computer systems to automatically learn and improve from experience without being explicitly programmed. The main objective of machine learning is to enable systems to learn from data and make accurate predictions or decisions based on that data.
+I have learned from the course "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023] " that machine learning is a subset of artificial intelligence that allows computer systems to automatically learn and improve from experience without being explicitly programmed. The main objective of machine learning is to enable systems to learn from data and make accurate predictions or decisions based on that data.
 In each folder above you will find the necessary code in order to build models and run the dataset you want . 
+
+I have uploaded some codes that I have done with the help of the tutors of this course and in order to run them LIVE you have to do the following steps : 
+- Open the notebook in Google Colab.
+- Click on github : ChrisLoukas007 , for Repository : ChrisLoukas007/Machine-Learning and branch : Main
+- Choose after which one do you want .
 
 - Regression is a type of supervised learning algorithm used to predict continuous numerical values. It is commonly used to predict the value of a dependent variable based on the values of one or more independent variables.
 
@@ -20,3 +25,4 @@ In each folder above you will find the necessary code in order to build models a
 - Dimensionality reduction is a technique used to reduce the number of features in a dataset while retaining as much relevant information as possible. It is commonly used for data visualization and feature selection.
 
 - Model selection and boosting are techniques used to improve the accuracy and performance of machine learning models. Model selection involves selecting the best model from a set of candidate models, while boosting involves combining multiple weak models to form a strong model.
+
