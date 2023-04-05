@@ -25,4 +25,3 @@ I have uploaded some codes that I have done with the help of the tutors of this 
 - Dimensionality reduction is a technique used to reduce the number of features in a dataset while retaining as much relevant information as possible. It is commonly used for data visualization and feature selection.
 
 - Model selection and boosting are techniques used to improve the accuracy and performance of machine learning models. Model selection involves selecting the best model from a set of candidate models, while boosting involves combining multiple weak models to form a strong model.
-
