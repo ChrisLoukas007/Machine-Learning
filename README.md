@@ -8,6 +8,8 @@ I have uploaded some codes that I have done with the help of the tutors of this 
 - Click on github : ChrisLoukas007 , for Repository : ChrisLoukas007/Machine-Learning and branch : Main
 - Choose after which one do you want .
 
+These are the main tops that this course is talking about : 
+
 - Regression is a type of supervised learning algorithm used to predict continuous numerical values. It is commonly used to predict the value of a dependent variable based on the values of one or more independent variables.
 
 - Classification is another type of supervised learning algorithm used to predict categorical or discrete values. It is used to classify new observations into predefined categories based on patterns observed in the training data.
