@@ -17,3 +17,10 @@ In this section of the course, I have learned about the following classification
 - Random Forest Classification: This model uses an ensemble of decision trees to classify data. It is used in remote sensing and finance.
 
 The course covers the implementation of these models using various tools and libraries in Python, such as scikit-learn. With the help of the code provided in the course, I can easily implement these models for my own dataset by changing only the input data.
+
+
+So , How do I know which model to choose for my problem ? 
+
+- If your problem is linear, you should go for Logistic Regression or SVM.
+- If your problem is non linear, you should go for K-NN, Naive Bayes, Decision Tree or Random Forest.
+
