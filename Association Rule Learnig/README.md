@@ -1,10 +1,8 @@
 From this section of my course I learned some things . 
-Association Rule Learning is a popular technique used in data mining to discover relationships between different variables in large datasets. It is widely used in market basket analysis to identify frequent itemsets and generate association rules that can be used to understand customer buying behavior. The two most commonly used algorithms for this purpose are Apriori and Eclat.
+Association rule learning is a technique used in data mining to discover associations between different items in a dataset. It helps in finding patterns or relationships between different items that are frequently bought or used together.
 
-- Apriori algorithm uses a breadth-first search strategy to generate itemsets and prune those that do not satisfy minimum support criteria. This algorithm has a high time complexity and requires multiple iterations to generate itemsets. However, it is effective for large datasets with sparse itemsets.
+- Apriori algorithm is a popular algorithm used for association rule learning. It is based on the concept of support, confidence, and lift, which helps in identifying the most relevant rules.The Apriori algorithm scans the database to identify the frequency of items and then uses the support measure to identify the most frequent itemsets. The algorithm then uses the confidence measure to generate association rules.
 
-- Eclat, on the other hand, uses a depth-first search strategy to generate frequent itemsets. It is faster than Apriori for dense datasets and does not require multiple passes to generate itemsets.
+- The Eclat algorithm is another popular algorithm used for association rule learning. It is based on the concept of intersection and union of itemsets. It uses vertical data format and avoids the generation of candidate itemsets.
 
-Both algorithms are used to generate association rules with the help of support, confidence, and lift measures. The support measure is used to identify the frequency of an itemset in the dataset. The confidence measure is used to identify the strength of association between items in a rule. The lift measure is used to identify the strength of association between items in a rule, taking into account their individual support values.
-
-Overall, Association Rule Learning and Apriori and Eclat algorithms can help businesses better understand their customers' behavior and make more informed decisions about product recommendations, marketing strategies, and pricing.
+Both Apriori and Eclat algorithms are widely used in market basket analysis, which helps in identifying which products are frequently bought together. These algorithms are also used in recommendation systems, fraud detection, and web mining.
