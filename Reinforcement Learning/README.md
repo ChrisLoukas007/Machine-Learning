@@ -4,6 +4,4 @@ The Upper Confidence Bound (UCB) algorithm is a popular Reinforcement Learning m
 
 Thompson Sampling is another Reinforcement Learning model that is similar to UCB. However, instead of selecting the option with the highest upper confidence bound, Thompson Sampling selects an option based on probability distribution. The probability of an option being the best is updated based on the rewards received.
 
-The main difference between UCB and Thompson Sampling is in the way they select the option. UCB selects the option with the highest upper confidence bound, while Thompson Sampling selects an option based on probability distribution.
-
 UCB and Thompson Sampling are used in various applications, such as advertising, clinical trials, and recommendation systems. UCB is preferred when the rewards are deterministic, while Thompson Sampling is preferred when the rewards are uncertain.
