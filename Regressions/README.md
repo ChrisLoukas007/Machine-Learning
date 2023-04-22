@@ -14,6 +14,6 @@ Before applying regression to a dataset, data preprocessing is an important step
 
 - Random Forest Regression is a regression technique that involves creating multiple decision trees and combining their predictions to make the final prediction. It is useful when dealing with large datasets and when there is a possibility of overfitting.
 
-- Evaluating Regression Models Performance is important to check the accuracy of the models. Metrics like R-squared, Mean Squared Error, and Root Mean Squared Error are used for evaluation.
+So in order to evaluate the Regression Models Performance we must check the accuracy of the models. Metrics like R-squared, Mean Squared Error, and Root Mean Squared Error are used for evaluation.
 
 Here , I have uploaded code examples for each of these regression techniques, which can be easily applied to a dataset by changing the name of the dataset. These codes include steps for data preprocessing, creating and fitting the model, and evaluating the model's performance.
